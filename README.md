@@ -1,8 +1,8 @@
-https://media.licdn.com/dms/image/v2/D5616AQHVBT4jegfoMQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724177808057?e=1749081600&v=beta&t=S8ftHh0OQ5fSTb4Yos4j600nLPM-vtJ9-AXvi3P0PXI
+![Researcher || Travel Writer](https://media.licdn.com/dms/image/v2/D5616AQHVBT4jegfoMQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724177808057?e=1749081600&v=beta&t=S8ftHh0OQ5fSTb4Yos4j600nLPM-vtJ9-AXvi3P0PXI)
+
 
 ### Hi there 👋, This is Alomgir Hossain
 #### Researcher || Travel Writer
-![Researcher || Travel Writer]
 
 I am Alomgir Hossain, a graduate student pursuing a Master of Science in Genetic Engineering and Biotechnology at the University of Rajshahi, Bangladesh. I previously completed a Bachelor of Science in the same department. I am also a co-founder and trainer of the Computational Biosciences and Chemistry Research Organization, which provides computational biology, chemistry, and omics research training. My academic and research interests are centered on computational molecular and cell biology and medicinal chemistry, particularly exploring protein folding and molecular mechanisms underlying diseases.
 
